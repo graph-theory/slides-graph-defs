@@ -1,6 +1,5 @@
 # Slides: Graph Theory
-These are the slides for the module **Graph Theory**.
-The module is taught to third year undergraduate students at [GMIT](http://www.gmit.ie).
+These slides are used to teach undergraduate students at [GMIT](http://www.gmit.ie).
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
 #### Compilation
